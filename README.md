@@ -1,2 +1,3 @@
 # hello-world
-just tryna learn da github 
+
+Just trying to learn how to use GitHub
